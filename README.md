@@ -19,3 +19,7 @@ Estimated Cost: $200
 Antenna Build: http://metsat.gogan.org/ant_qha.htm
 
 Raspberry Pi Setup: https://www.instructables.com/id/Raspberry-Pi-NOAA-Weather-Satellite-Receiver/
+
+## Outcomes
+
+![alt text](https://github.com/thomasmcg77/NOAA_Satellite_Reciever/blob/main/NOAA1520200712-200928.png?raw=true)
