@@ -1,5 +1,5 @@
 # NOAA_Satellite_Reciever
-Recieve NOAA satellite images using a homemade quadrafilar helix (QFH) antenna, a Raspberry Pi, and a SDR.
+Recieve NOAA satellite images using a homemade quadrafilar helix antenna, a Raspberry Pi, and a SDR. Raspberry Pi runs bash scripts to automate the process of reading signals. 
 
 Materials:
 
